@@ -1,7 +1,3 @@
-/**
- *Submitted for verification at BscScan.com on 2021-01-23
-*/
-
 pragma solidity >=0.5.0;
 pragma experimental ABIEncoderV2;
 
